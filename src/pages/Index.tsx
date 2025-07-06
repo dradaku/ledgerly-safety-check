@@ -32,7 +32,7 @@ const Index = () => {
       <section className="relative py-20 overflow-hidden">
         <div className="container mx-auto px-4 text-center relative z-10">
           <Badge className="mb-6 bg-secondary/20 text-secondary border-secondary/30">
-            🏆 Built at ETHGlobal Cannes 2025 • Ledger & Oasis Winner
+            🏆 Built at ETHGlobal Cannes 2025 • Ledger & Oasis Integrations
           </Badge>
           
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-hero bg-clip-text text-transparent leading-tight">
